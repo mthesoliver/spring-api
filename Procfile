@@ -1,0 +1,1 @@
+web: java -jar target/med-mais-0.0.1-SNAPSHOT.jar
